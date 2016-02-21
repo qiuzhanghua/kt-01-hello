@@ -34,3 +34,5 @@ show type of kotlin.
 ## ControlFlow -- com.example.ControlFlow
 if, when, for, break
 
+## ObjectOriented -- com.example.ObjectOriented
+class open inherited
